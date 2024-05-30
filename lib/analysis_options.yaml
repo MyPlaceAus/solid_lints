@@ -89,7 +89,7 @@ custom_lint:
     # - prefer_conditional_expressions:
     #   ignore_nested: true
 
-    - prefer_first
+    # - prefer_first
     - prefer_last
     - prefer_match_file_name
     - proper_super_calls

@@ -80,8 +80,8 @@ custom_lint:
     - no_equal_then_else
     - prefer_early_return
 
-    - no_magic_number:
-      allowed_in_widget_params: true
+    # - no_magic_number:
+    #   allowed_in_widget_params: true
 
     - number_of_parameters:
       max_parameters: 7

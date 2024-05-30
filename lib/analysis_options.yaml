@@ -63,9 +63,9 @@ custom_lint:
 
     - member_ordering:
       order:
+        - constructors
         - fields
         - getters_setters
-        - constructors
         - methods
       widgets_order:
         - init_state_method
